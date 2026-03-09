@@ -1,6 +1,4 @@
 ## Hi there 👋
 ## 📬 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-Bararifqi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bararifqi.dev@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bara%20Rifqi%20Ath%20Thoriq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+![](https://raw.githubusercontent.com/rifqiAth/rifqiAth-assets/04b27adc24f605219009756f5de7154661f3ae97/GIF/Tech%20Android%20GIF%20by%20Google%20Developers.gif)
