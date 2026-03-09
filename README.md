@@ -8,5 +8,5 @@
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/rifqiAth/rifqiAth-assets/04b27adc24f605219009756f5de7154661f3ae97/GIF/android.gif" width="100">
-<img src="https://raw.githubusercontent.com/rifqiAth/rifqiAth-assets/04b27adc24f605219009756f5de7154661f3ae97/GIF/tensorflow.gif" width="50">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ6OGIwejB3Y3hxYWZ2ZDl2bDJrdzhsOGNuaXBzdm5vbnhtMzE4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="100">
 </p>
