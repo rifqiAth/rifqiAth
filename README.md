@@ -7,7 +7,10 @@
 ---
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/rifqiAth/rifqiAth-assets/04b27adc24f605219009756f5de7154661f3ae97/GIF/android.gif" width="100">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm12dzdnajhzZjhoa2g3NGx1ZW9odDFnN3QxZDhkNW42NGh4ZGsxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="100">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdwOWk2YnhtZjRlYm9teTgwY2Y5dmJubGtnOGF3NHU2ZzQxbHRqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxODB9UE879RDqAh3o/giphy.gif" width="120">
+<img src="https://www.readmecodegen.com/api/social-icon?name=android&size=24&animation=wiggle&animationDuration=3">
+<img src="https://www.readmecodegen.com/api/social-icon?name=java&size=24&animation=wiggle&animationDuration=3">
+<img src="https://www.readmecodegen.com/api/social-icon?name=kotlin&size=24&animation=wiggle&animationDuration=3">
+<img src="https://www.readmecodegen.com/api/social-icon?name=firebase&size=24&animation=wiggle&animationDuration=3">
+<img src="https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=24&animation=wiggle&animationDuration=3">
+
 </p>
